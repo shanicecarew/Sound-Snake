@@ -11,6 +11,7 @@ Arduino Code Source Credit: Ashley Brown MIC_IN.ino https://github.com/ashleyjam
 Arduino Skills Credit: Ashley Brown
 
 File Guide
+LICENCE = Details of the licensing for the files
 Sound_Snake_Full_Game.pde = The full code for the 'Sound Snake' game. Run it on Processing
 Sound_Snake_Mic_Controls.ino = The full code for the microphone setup for the 'Sound Snake' game. Run it on Arduino
 snake.mtl = A crucial file which is part of the 3D snake used in the game
