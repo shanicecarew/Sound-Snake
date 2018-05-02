@@ -17,3 +17,4 @@ Sound_Snake_Mic_Controls.ino = The full code for the microphone setup for the 'S
 snake.mtl = A crucial file which is part of the 3D snake used in the game
 snake.obj = A crucial file which is part of the 3D snake used in the game
 snake.png = The file for the 2D snake for the Raspberry Pi version
+Sound Snake Documentation.docx = The step-by-step guide on how to build the game and make it fully functionable
